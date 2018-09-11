@@ -1,16 +1,32 @@
 {
-  "posts":[
+  "employees":[
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "name": "Johny Cash",
+      "birthday": "1987-03-16",
+      "frontend_level": 2,
+      "backend_level": 8
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 2,
+      "name": "Elton Bong",
+      "birthday": "1965-05-05",
+      "frontend_level": 8,
+      "backend_level": 8
+    },
+    {
+      "id": 3,
+      "name": "Rudy Four Fingers",
+      "birthday": "1988-11-25",
+      "frontend_level": 8,
+      "backend_level": 2
+    },
+    {
+      "id": 4,
+      "name": "Pinky Brain",
+      "birthday": "1997-08-08",
+      "frontend_level": 10,
+      "backend_level": 10
     }
   ]
 }
